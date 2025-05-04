@@ -1,0 +1,8 @@
+#Creates a theme for the website that matches McDonald's colors:
+[theme]
+base="light"
+primaryColor="#DA291C"  # McDonald's red
+backgroundColor= "#FFF8E1"  # warm off-white
+secondaryBackgroundColor="#FFCC00"  # McDonald's yellow
+textColor="#000000"
+font="sans serif"
